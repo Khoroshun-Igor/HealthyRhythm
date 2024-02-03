@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">HealthyRhythm</string>
+    <string name="title">Healthy Rhythm</string>
+    <string name="title_activity_menu" translatable="false">Menu</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="guest">Guest</string>
+    <string name="about">About</string>
+    <string name="training">training</string>
+    <string name="settings">Settings</string>
+    <string name="volume">Volume</string>
+    <string name="silent_mode">Silent Mode</string>
+    <string name="registration">Registration</string>
+    <string name="login">Log in</string>
+    <string name="authors">Authors</string>
+    <string name="change_password">Change password</string>
+    <string name="save">save</string>
+    <string name="start">Start</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="table_of_norms">Table of norms</string>
+    <string name="rhythm_of_breath">Rhythm of breath</string>
+    <string name="age">Age</string>
+    <string name="recommendation">Pick your rhythm</string>
+    <string name="we_recomend">we recommend starting with a rhythm: your rate + 2</string>
+    <string name="time">Time</string>
+    <string name="options">Options</string>
+    <string name="choose">Choose comfortable rhythm and gradually reduce them.</string>
+    <string name="five_minutes">5 minutes a day will help you relax and improve immunity</string>
+    <string name="get_well">Get well the way you like</string>
+    <string name="column">Column</string>
+    <string name="balloon">Balloon</string>
+    <string name="picture">Picture</string>
+    <string name="animation">Animation</string>
+    <string name="back">Back</string>
+    <string name="contacts">Contacts</string>
+    <string name="results">Results</string>
+    <string name="cancel">Cancel</string>
+    <string name="twenty_yo">20 y.o.</string>
+    <string name="fourteen_nineteen">14-19 y.o.</string>
+    <string name="eleven_thirteen">11-13 y.o.</string>
+    <string name="nine_ten">9-10 y.o.</string>
+    <string name="six_eight">6-8 y.o.</string>
+    <string name="four_five">4-5 y.o.</string>
+    <string name="up_to_eight">up to 8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="ten" translatable="false">10</string>
+    <string name="eleven" translatable="false">11</string>
+    <string name="twelve" translatable="false">12</string>
+    <string name="fourteen" translatable="false">14</string>
+    <string name="accept">Accept</string>
+    <string name="tag">AppTag</string>
+    <string name="sign_in">Sign in</string>
+    <string name="reset">Reset</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign out</string>
+    <string name="revoke_access">Revoke Access</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="verify_email">Verify email</string>
+    <string name="profile">Profile</string>
+    <string name="no_account">No account? Sign up.</string>
+    <string name="already_user">Already a user? Sign in.</string>
+    <string name="welcome">Welcome to our app.</string>
+    <string name="already_verified">"Already verified?"</string>
+    <string name="spam">If not, please also check the spam folder.</string>
+    <string name="verify_email_message">We\'ve sent you an email with a link to verify the email.</string>
+    <string name="email_not_verified">Your email is not verified.</string>
+    <string name="reset_password">Your email is not verified.</string>
+    <string name="revoke_access_message">You need to re-authenticate before revoking the access.</string>
+    <string name="revoked_message">Your access has been revoked.</string>
+    <string name="sensitive_operation">This operation is sensitive and requires recent authentication. Log in again before retrying this request.</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="email_error">Please insert a valid email.</string>
+    <string name="try_again">Try again</string>
+    <string name="ok">OK</string>
+    <string name="login_details">Enter your login details</string>
+    <string name="recovery_email_sent">Check your inbox for the recovery email.</string>
+    <string name="empty_password_error">Password cannot be empty.</string>
+    <string name="create_account">Create account</string>
+    <string name="password_error">Your password should have at least six digits and include one digit, one lower case letter and one upper case letter.</string>
+    <string name="password_match_error">Passwords do not match.</string>
+    <string name="delete_my_account">Delete my account</string>
+    <string name="sign_out_title">Sign out?</string>
+    <string name="delete_account_title">Delete account?</string>
+    <string name="language">language</string>
+</resources>

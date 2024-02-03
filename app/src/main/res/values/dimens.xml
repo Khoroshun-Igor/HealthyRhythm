@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="extra_small_padding">2dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="max_padding">16dp</dimen>
+    <dimen name="avatar_size">32dp</dimen>
+    <dimen name="option_size">72dp</dimen>
+    <dimen name="table_size">96dp</dimen>
+    <dimen name="option_w">128dp</dimen>
+    <dimen name="option_h">172dp</dimen>
+</resources>
