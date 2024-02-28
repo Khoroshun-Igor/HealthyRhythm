@@ -20,6 +20,7 @@ import com.tamago.healthyrhythm.ui.components.bottomnavmenu.BottomNavMenu
 import com.tamago.healthyrhythm.ui.components.textfields.EmailField
 import com.tamago.healthyrhythm.ui.main.HealthyRhythmViewModel
 import com.tamago.healthyrhythm.ui.navigation.AppNavigationAction
+import kotlinx.coroutines.coroutineScope
 
 /**
  * Created by Igor Khoroshun on 24.01.2024.

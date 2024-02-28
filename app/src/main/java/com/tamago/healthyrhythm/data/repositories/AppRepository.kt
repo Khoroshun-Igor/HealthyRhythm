@@ -10,5 +10,6 @@ import javax.inject.Inject
 
 class AppRepository @Inject constructor(
     val languageManager: LanguageManager,
-    val authManager: AuthManager
+    val authManager: AuthManager,
+//    val weatherManager: WeatherManager
 )

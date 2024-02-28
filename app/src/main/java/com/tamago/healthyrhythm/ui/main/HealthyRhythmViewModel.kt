@@ -12,4 +12,5 @@ import javax.inject.Inject
 class HealthyRhythmViewModel @Inject constructor(appRepository: AppRepository) : ViewModel() {
     val languageManager = appRepository.languageManager
     val authManager = appRepository.authManager
+//    val weatherManager = appRepository.weatherManager
 }
